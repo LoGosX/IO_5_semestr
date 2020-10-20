@@ -1,0 +1,1 @@
+Repozytorium z zadaniami z przedmiotu Inżynieria Oprogramowania
